@@ -1,0 +1,32 @@
+[
+	{
+		"Name": "Moonshine",
+		"Description": "A bottle of hard liquid.",
+		"Mesh": "StaticMesh'/Game/07_Props/Moonshine/SM_MoonShine.SM_MoonShine'",
+		"Weight": 500
+	},
+	{
+		"Name": "Pickaxe",
+		"Description": "We used these to earn out keeps",
+		"Mesh": "StaticMesh'/Game/07_Props/Pickaxe/Pickaxe.Pickaxe'",
+		"Weight": 100
+	},
+	{
+		"Name": "Can",
+		"Description": "This is what we drink the dew with",
+		"Mesh": "StaticMesh'/Game/_GENERATED/SM_Ball.SM_Ball'",
+		"Weight": 1000
+	},
+	{
+		"Name": "Rock",
+		"Description": "This is just a rock.",
+		"Mesh": "StaticMesh'/Game/SoulCave/Environment/Meshes/Rocks/SM_S_Soul_Flatrock.SM_S_Soul_Flatrock'",
+		"Weight": 545
+	},
+	{
+		"Name": "Example",
+		"Description": "This is a test description for an item edited in a JSON file.",
+		"Mesh": "StaticMesh'/Game/SoulCave/Environment/Meshes/Rocks/SM_S_Soul_Flatrock.SM_S_Soul_Flatrock'",
+		"Weight": 545
+	}
+]

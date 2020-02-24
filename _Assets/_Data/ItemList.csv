@@ -1,0 +1,5 @@
+---,Name,Description,Mesh,Weight
+Moonshine,Moonshine,A bottle of hard liquid.,StaticMesh'/Game/07_Props/Moonshine/SM_MoonShine.SM_MoonShine',500
+Pickaxe,Pickaxe,We used these to earn out keeps,StaticMesh'/Game/07_Props/Pickaxe/Pickaxe.Pickaxe',100
+Can,Can,This is what we drink the dew with,StaticMesh'/Game/_GENERATED/SM_Ball.SM_Ball',1000
+Rock,Pet Rock,Just a rock dude.,StaticMesh'/Game/SoulCave/Environment/Meshes/Rocks/SM_S_Soul_Flatrock.SM_S_Soul_Flatrock',545
