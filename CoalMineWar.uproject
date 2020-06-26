@@ -40,6 +40,10 @@
 				"Linux",
 				"Mac"
 			]
+		},
+		{
+			"Name": "StaticMeshEditorExtension",
+			"Enabled": true
 		}
 	]
 }
