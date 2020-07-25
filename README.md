@@ -29,9 +29,9 @@ https://wvhistoryonview.org/catalog/030104 <br>
 
 <h3>Project Credits</h3>
 
-<strong> Cory </strong>
-<strong> Izzy </strong> Lead Level Design
-<strong> Jeffery </strong> Level Design
-<strong> David <strong> UI
-<strong> Hunter </strong> Sound Design
+<br><strong> Cory </strong>
+<br><strong> Izzy </strong> Lead Level Design
+<br><strong> Jeffery </strong> Level Design
+<br><strong> David <strong> UI
+<br><strong> Hunter </strong> Sound Design
 
