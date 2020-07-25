@@ -1,7 +1,11 @@
 # Coal Mine War Museum
 
+<i>This project is being used to teach Unreal Engine 4, game development tools, history. </i>
 
 
+Local Resources:
+
+https://www.wvminewars.com/history <br>
 
 Videos:
 
