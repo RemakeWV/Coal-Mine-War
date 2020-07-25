@@ -3,11 +3,11 @@
 <i>This project is being used to teach Unreal Engine 4, game development tools, history. </i>
 
 
-Local Resources:
+<h3> Local Resources: </h3>
 
 https://www.wvminewars.com/history <br>
 
-Videos:
+<h3> Videos: </h3>
 
 https://www.pbs.org/video/american-experience-mine-wars/ <br>
 https://www.pbs.org/video/american-experience-race-and-west-virginia-mine-wars/ <br>
@@ -15,7 +15,7 @@ https://www.wvminewars.com/about <br>
 https://www.wvminewars.com/about <br>
 
 
-Docs:
+<h3> Docs: </h3>
 
 https://wvhistoryonview.org/?utf8=%E2%9C%93&search_field=all_fields&q=tipple <br>
 https://wvhistoryonview.org/catalog/003348 <br>
@@ -24,3 +24,14 @@ https://wvhistoryonview.org/catalog/034206 <br>
 https://wvhistoryonview.org/catalog/034220 <br>
 https://wvhistoryonview.org/catalog/034208 <br>
 https://wvhistoryonview.org/catalog/030104 <br>
+
+
+
+<h3>Project Credits</h3>
+
+<strong> Cory </strong>
+<strong> Izzy </strong> Lead Level Design
+<strong> Jeffery </strong> Level Design
+<strong> David <strong> UI
+<strong> Hunter </strong> Sound Design
+
