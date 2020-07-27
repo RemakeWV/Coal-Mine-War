@@ -38,6 +38,10 @@ https://wvhistoryonview.org/catalog/034220 <br>
 https://wvhistoryonview.org/catalog/034208 <br>
 https://wvhistoryonview.org/catalog/030104 <br>
 
+<h3> Weapon Refs </h3>
+
+https://www.americanrifleman.org/articles/2014/3/13/guns-of-the-battle-of-blair-mountain/#:~:text=Of%20the%20cornucopia%20of%20arms,and%20the%20Thompson%20submachine%20gun. <br>
+
 
 
 <h3>Project Credits</h3>
