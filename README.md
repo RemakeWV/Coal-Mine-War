@@ -19,10 +19,10 @@ wiki^
 
 <h3>Organizations</h3>
 
-United Mine Workers - UMW <br>
+<strong>United Mine Workers - UMW </strong> <br>
 a North American labor union best known for representing coal miners. Today, the Union also represents health care workers, truck drivers, manufacturing workers and public employees in the United States and Canada. Although its main focus has always been on workers and their rights, the UMW of today also advocates for better roads, schools, and universal health care. By 2014, coal mining had largely shifted to open pit mines in Wyoming, and there were only 60,000 active coal miners. The UMW was left with 35,000 members, of whom 20,000 were coal miners, chiefly in underground mines in Kentucky and West Virginia. However it was responsible for pensions and medical benefits for 40,000 retired miners, and for 50,000 spouses and dependents.
 
-Baldwin–Felts Detective Agency<br>
+<strong> Baldwin–Felts Detective Agency</strong><br>
 
 a private detective agency in the United States from the early 1890s to 1937. Members of the agency were central actors in the events that led to the Battle of Blair Mountain in 1921 and violent repression of labor union members as part of the Coal Wars in such places as the Pocahontas Coalfield region of West Virginia, the Paint Creek-Cabin Creek strike of 1912 in West Virginia, 1913-1914 Colorado Coalfield War (including the Ludlow Massacre in 1914), and the Battle of Matewan in 1920.
 
@@ -31,7 +31,7 @@ a private detective agency in the United States from the early 1890s to 1937. Me
 
 <h3>People</h3>
 
-Mary G. Harris Jones aka - Mother Jones <br>
+<strong> Mary G. Harris Jones aka - Mother Jones</strong> <br>
 (1837 (baptized) – November 30, 1930)<br><br>
 
 an Irish-born American schoolteacher and dressmaker who became a prominent union organizer, community organizer, and activist. She helped coordinate major strikes and co-founded the Industrial Workers of the World.
@@ -39,13 +39,13 @@ an Irish-born American schoolteacher and dressmaker who became a prominent union
 After Jones' husband and four children all died of yellow fever in 1867, and her dress shop was destroyed in the Great Chicago Fire of 1871, she became an organizer for the Knights of Labor and the United Mine Workers union. In 1902, she was called "the most dangerous woman in America" for her success in organizing mine workers and their families against the mine owners. In 1903, to protest the lax enforcement of the child labor laws in the Pennsylvania mines and silk mills, she organized a children's march from Philadelphia to the home of President Theodore Roosevelt in New York. <br>
 
 
-Charles Francis "Frank" Keeney Jr. <br>
+<strong>Charles Francis "Frank" Keeney Jr.</strong> <br>
 (March 15, 1882 – May 22, 1970)<br><br>
 
 a union organizer during the West Virginia Coal Wars. He served as a rank and file leader during the Paint Creek-Cabin Creek strike of 1912–1913, and became president of United Mine Workers District 17 from his election in 1916 until 1924. He played a leadership role during the strike of 1920–1921, leading up to the Battle of Blair Mountain.<br>
 
 
-Justus Collins <br>
+<strong>Justus Collins </strong><br>
 (December 14, 1857-October 18, 1934)<br>
 
 Coal operator Justus Collins was born in Clayton, Alabama. He began his coal career in his native South, reportedly supervising convict mine labor. About 1887, he resigned as secretary treasurer of Woodward Iron Company, an Alabama mining firm, to move to the new ‘‘smokeless coalfields’’ of southern West Virginia.
@@ -59,7 +59,7 @@ Collins’s comment that mine managers should strive for a ‘‘judicious mixtu
 
 
 <h3>Battles</h3>
-Battle of Matewan
+<strong>Battle of Matewan</strong>
 Main article: Battle of Matewan
 The most infamous striking breaking action undertaken by the Baldwin-Felts was in Matewan, West Virginia. A confrontation between locals and agents resulted in the deaths of two miners and Matewan's Mayor as well as seven Baldwin-Felts detectives including Thomas Felts' brothers, Albert and Lee.
 
