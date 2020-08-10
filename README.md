@@ -26,37 +26,34 @@ a North American labor union best known for representing coal miners. Today, the
 
 a private detective agency in the United States from the early 1890s to 1937. Members of the agency were central actors in the events that led to the Battle of Blair Mountain in 1921 and violent repression of labor union members as part of the Coal Wars in such places as the Pocahontas Coalfield region of West Virginia, the Paint Creek-Cabin Creek strike of 1912 in West Virginia, 1913-1914 Colorado Coalfield War (including the Ludlow Massacre in 1914), and the Battle of Matewan in 1920.
 
-
-
-
 <h3>People</h3>
 
 <strong> Mary G. Harris Jones aka - Mother Jones</strong> <br>
 (1837 (baptized) – November 30, 1930)<br><br>
-
 an Irish-born American schoolteacher and dressmaker who became a prominent union organizer, community organizer, and activist. She helped coordinate major strikes and co-founded the Industrial Workers of the World.
-
 After Jones' husband and four children all died of yellow fever in 1867, and her dress shop was destroyed in the Great Chicago Fire of 1871, she became an organizer for the Knights of Labor and the United Mine Workers union. In 1902, she was called "the most dangerous woman in America" for her success in organizing mine workers and their families against the mine owners. In 1903, to protest the lax enforcement of the child labor laws in the Pennsylvania mines and silk mills, she organized a children's march from Philadelphia to the home of President Theodore Roosevelt in New York. <br>
 
 
 <strong>Charles Francis "Frank" Keeney Jr.</strong> <br>
 (March 15, 1882 – May 22, 1970)<br><br>
-
 a union organizer during the West Virginia Coal Wars. He served as a rank and file leader during the Paint Creek-Cabin Creek strike of 1912–1913, and became president of United Mine Workers District 17 from his election in 1916 until 1924. He played a leadership role during the strike of 1920–1921, leading up to the Battle of Blair Mountain.<br>
 
 
 <strong>Justus Collins </strong><br>
-(December 14, 1857-October 18, 1934)<br>
-
+(December 14, 1857-October 18, 1934)<br><br>
 Coal operator Justus Collins was born in Clayton, Alabama. He began his coal career in his native South, reportedly supervising convict mine labor. About 1887, he resigned as secretary treasurer of Woodward Iron Company, an Alabama mining firm, to move to the new ‘‘smokeless coalfields’’ of southern West Virginia.
-
 In Mercer County, Collins organized Louisville Coal & Coke Company about 1887, one of the first mines to ship coal on the Norfolk & Western Railroad. In 1893 he opened Collins Colliery in Glen Jean, Fayette County, opened Greenbrier Coal & Coke at about the same time, and later the Whipple mine near Mount Hope. He built identical octagonal company stores at Collins and Whipple, and the Whipple store survives today as a local landmark. In 1906, both the Collins and Whipple mines were sold to the New River Company, and Collins organized Superior Pocahontas Coal. He opened Winding Gulf mine in 1910, becoming a pioneer in the Winding Gulf Coalfield; his earlier mines were located in the neighboring New River and Pocahontas fields. In 1929, Collins consolidated his mining properties into the Winding Gulf Collieries Company.
-
 Collins’s comment that mine managers should strive for a ‘‘judicious mixture’’ of races and nationality groups, on the theory that diversity hampered unionization, is often quoted. Miners resented his labor policies, and he was avidly disliked by rival coal operators, including W. P. Tams and Samuel Dixon. Justus Collins left the coalfields as his business interests expanded, moving his family first to Charleston and then to Cincinnati.<br>
 
+<strong>Sid Hatfield</strong><br>
 
+<strong>Henry Hatfield</strong><br>
 
+<strong>Fred Mooney</strong><br>
 
+<strong>CE Lively</strong><br>
+
+<strong>Cabell Testerman</strong><br>
 
 <h3>Battles</h3>
 <strong>Battle of Matewan</strong> <br>
@@ -75,12 +72,13 @@ In the midst of this tense situation, Hatfield traveled to McDowell County on 1 
 
 The miners were angry at the way Hatfield had been slain, and that it appeared the assassins would escape punishment. They began to pour out of the mountains and take up arms.
 
+<strong>Mingo County</strong> <br>
 
 
+<h3>Economy</h3>
 
-<h3>Economy<h3>
-
-Scrip
+Scrip<br>
+restriction to literature/speech <br>
 
 
 
