@@ -59,8 +59,8 @@ Collins’s comment that mine managers should strive for a ‘‘judicious mixtu
 
 
 <h3>Battles</h3>
-<strong>Battle of Matewan</strong>
-Main article: Battle of Matewan
+<strong>Battle of Matewan</strong> <br>
+
 The most infamous striking breaking action undertaken by the Baldwin-Felts was in Matewan, West Virginia. A confrontation between locals and agents resulted in the deaths of two miners and Matewan's Mayor as well as seven Baldwin-Felts detectives including Thomas Felts' brothers, Albert and Lee.
 
 On May 19, 1920, 12 Baldwin-Felts agents, including Lee Felts, arrived in Matewan, West Virginia and met with Albert Felts, who was already in the area. Albert and Lee were the brothers of Thomas Felts, the co-owner and director of the agency. Albert had already been in the area and had tried to bribe Mayor Testerman with $500 to place machine guns on roofs in the town; Testerman refused. That afternoon Albert and Lee along with 11 other men set out to the Stone Mountain Coal Co. property. The first family they evicted was a woman and her children; the woman's husband was not home at the time. They forced them out at gunpoint and threw their belongings in the road under a light but steady rain. The miners who saw it were furious, and sent word to town.
