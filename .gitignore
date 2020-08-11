@@ -41,7 +41,7 @@
 *.VC.db
 *.VC.opendb
 
-# Precompiled Assets
+# Quixel Assets
 Content/**/*.png
 Content/**/*.jpg
 Content/**/*.exr
