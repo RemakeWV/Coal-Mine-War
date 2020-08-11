@@ -45,6 +45,7 @@
 Content/**/*.png
 Content/**/*.jpg
 Content/**/*.exr
+Content/**/*.json
 
 # Binary Files
 Binaries/*
