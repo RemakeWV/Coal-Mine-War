@@ -170,6 +170,18 @@
 			"type": "boolean"
 		},
 		{
+			"name": "/actions/main/in/Flashlight",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/Interact",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/Menu",
+			"type": "boolean"
+		},
+		{
 			"name": "/actions/main/in/MoveForward axis",
 			"type": "vector1"
 		},
@@ -331,6 +343,9 @@
 			"/actions/main/in/VREditor_Right_ConfirmRadialSelection": "VREditor_Right_ConfirmRadialSelection",
 			"/actions/main/in/VREditor_Right_Touch": "VREditor_Right_Touch",
 			"/actions/main/in/VREditor_Right_Modifier2": "VREditor_Right_Modifier2",
+			"/actions/main/in/Flashlight": "Flashlight",
+			"/actions/main/in/Interact": "Interact",
+			"/actions/main/in/Menu": "Menu",
 			"/actions/main/in/MoveForward axis": "MoveForward",
 			"/actions/main/in/MoveRight axis": "MoveRight",
 			"/actions/main/in/VREditor_Left_TriggerAxis axis": "VREditor_Left_TriggerAxis",
