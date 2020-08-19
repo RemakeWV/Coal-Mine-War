@@ -2,7 +2,7 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.mine-wars-13594126.ue4editor.exe",
+			"app_key": "application.generated.ue.mine-wars-13942748.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "D:/Coal-Mine-War/Config/SteamVRBindings/steamvr_manifest.json",
@@ -10,7 +10,7 @@
 			{
 				"en_us":
 				{
-					"name": "Mine Wars-13594126 [UE Editor]"
+					"name": "Mine Wars-13942748 [UE Editor]"
 				}
 			}
 		}
