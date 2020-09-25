@@ -170,10 +170,6 @@
 			"type": "boolean"
 		},
 		{
-			"name": "/actions/main/in/Flashlight",
-			"type": "boolean"
-		},
-		{
 			"name": "/actions/main/in/Interact",
 			"type": "boolean"
 		},
@@ -343,7 +339,6 @@
 			"/actions/main/in/VREditor_Right_ConfirmRadialSelection": "VREditor_Right_ConfirmRadialSelection",
 			"/actions/main/in/VREditor_Right_Touch": "VREditor_Right_Touch",
 			"/actions/main/in/VREditor_Right_Modifier2": "VREditor_Right_Modifier2",
-			"/actions/main/in/Flashlight": "Flashlight",
 			"/actions/main/in/Interact": "Interact",
 			"/actions/main/in/Menu": "Menu",
 			"/actions/main/in/MoveForward axis": "MoveForward",
