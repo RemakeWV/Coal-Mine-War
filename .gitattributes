@@ -1,0 +1,5 @@
+*.sbsar filter=lfs diff=lfs merge=lfs -text
+Content/04_Materials/Substance/Wet-Ground/wet_mossy_rockery.ussat filter=lfs diff=lfs merge=lfs -text
+Content/04_Materials/Substance/Wet-Ground/wet_mossy_rockery.usset filter=lfs diff=lfs merge=lfs -text
+Content/04_Materials/Substance/Wet-Ground/wet_mossy_rockery.uasset filter=lfs diff=lfs merge=lfs -text
+Content/04_Materials/Substance/Wet-Mossy-Ground/wet_mossy_rockery.uasset filter=lfs diff=lfs merge=lfs -text
