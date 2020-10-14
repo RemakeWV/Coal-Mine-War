@@ -28,10 +28,6 @@
 			]
 		},
 		{
-			"Name": "AndroidPermission",
-			"Enabled": false
-		},
-		{
 			"Name": "StaticMeshEditorExtension",
 			"Enabled": true
 		},
