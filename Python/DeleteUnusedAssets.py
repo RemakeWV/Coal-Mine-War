@@ -1,14 +1,3 @@
-#										_
-#									   (_)
-#  _ __ ___   __ _ _ __ ___   ___  _ __  _  ___ _ __ ___
-# | '_ ` _ \ / _` | '_ ` _ \ / _ \| '_ \| |/ _ \ '_ ` _ \
-# | | | | | | (_| | | | | | | (_) | | | | |  __/ | | | | |
-# |_| |_| |_|\__,_|_| |_| |_|\___/|_| |_|_|\___|_| |_| |_|
-#					www.mamoniem.com
-#					  www.ue4u.xyz
-#Copyright 2020 Muhammad A.Moniem (@_mamoniem). All Rights Reserved.
-#
-
 import unreal
 
 workingPath = "/Game/"
@@ -31,7 +20,7 @@ if (allAssetsCount > 0):
             processingAssetPath = asset
             deps = AssetLib.find_package_referencers_for_asset(asset, False)
             if (len(deps) <= 0):
-                unreal.log(">>>>>> Deleteing >>>>> %s" % asset)
+                unreal.log("Deleteing %s" % asset)
                 AssetLib.delete_asset(asset)
             if ST.should_cancel():
                 break
