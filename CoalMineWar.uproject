@@ -63,6 +63,14 @@
 		{
 			"Name": "ControlRig",
 			"Enabled": true
+		},
+		{
+			"Name": "ActorPalette",
+			"Enabled": true
+		},
+		{
+			"Name": "Paper2D",
+			"Enabled": false
 		}
 	]
 }
